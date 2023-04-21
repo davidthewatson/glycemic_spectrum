@@ -1,4 +1,4 @@
-# glycemic_spectrumi
+# glycemic_spectrum
 
 This is a python program that I used Bing AI to generate with the following prompt:
 
